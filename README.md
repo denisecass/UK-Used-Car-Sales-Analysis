@@ -15,8 +15,10 @@ How can One Track Motors increase profit margins by 5% within 6 months by establ
 **- Dataset Description -**
 
 The variables were extracted from a dataset consisting of 99,186 records for used car sales. 
+
 *Numerical Variables:*
 Year, Price, Mileage, Tax, MPG, Engine Size
+
 *Categorical Variables:*
 Brand, Model, Transmission, Fuel Type
 
